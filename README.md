@@ -1,2 +1,2 @@
 # src-website
-local rowing club website
+website for a local rowing club
